@@ -1,4 +1,5 @@
 ### Hi folks, welcome to my profile. 👋
+Samriddha Basu here.
 
 
 - 🌱 I’m currently learning Python & Kotlin
