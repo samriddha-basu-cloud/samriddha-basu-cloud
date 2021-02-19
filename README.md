@@ -1,13 +1,13 @@
-### Hi folks, welcome to my profile. 👋
+### Hi folks, welcome to my profile 👋,
 
 ## 👨🏽‍💻  Samriddha Basu here.
 #### A novice coder, an ardent technophile, and 1st year undergrad majoring CS&E at SRM IST.
 - 😄 Pronouns: He/his
 - 🌱 Languages : JAVA / PYTHON / KOTLIN
 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"  height='40'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/dusk/64/000000/python.png"  height='40'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/kotlin.png"  height='40'/>
 
-
-
+&nbsp;&nbsp;&nbsp;&nbsp; § § Find me here § §
 
 [<img src='https://img.icons8.com/cute-clipart/64/000000/github.png' alt='github' height='40'>](https://github.com/samriddha-basu-cloud)  [<img src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/samriddha-basu-4594401ba/)  [<img src='https://img.icons8.com/cute-clipart/64/000000/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/samriddha.basu.92)  [<img src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/important.dmg/)  [<img src='https://img.icons8.com/cute-clipart/64/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/BasuSamriddha)  
 
@@ -19,7 +19,7 @@
 
 ![Samriddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=samriddha-basu-cloud&show_icons=true&theme=tokyonight)
 
-![Samriddha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samriddha-basu-cloud) \
+![Samriddha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samriddha-basu-cloud) 
 
 
 ![Samriddha's Profile views](https://gpvc.arturio.dev/samriddha-basu-cloud)  
