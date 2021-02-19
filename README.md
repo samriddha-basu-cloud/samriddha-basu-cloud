@@ -1,10 +1,25 @@
 ### Hi folks, welcome to my profile. 👋
-##  👨🏾‍💻  Samriddha Basu here.
 
-
-- 🌱 I’m currently learning Python & Kotlin
-- 📫 How to reach me: [**LinkedIn** - _samriddha-basu-4594401ba_](https://www.linkedin.com/in/samriddha-basu-4594401ba/) ,  [**Twitter** - _@BasuSamriddha_](https://twitter.com/BasuSamriddha) , [**Facebook** - _samriddha.basu.92_](https://www.facebook.com/samriddha.basu.92) , [**Instagram** - _important.dmg_](https://www.instagram.com/important.dmg/)
+## 👨🏽‍💻  Samriddha Basu here.
+#### A novice coder, an ardent technophile, and 1st year undergrad majoring CS&E at SRM IST.
 - 😄 Pronouns: He/his
+- 🌱 Languages : JAVA / PYTHON / KOTLIN
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=samriddha-basu-cloud&&show_icons=true&title_color=f5f0f0&icon_color=45F3FF&text_color=daf7dc&bg_color=101010">
+
+
+
+[<img src='https://img.icons8.com/cute-clipart/64/000000/github.png' alt='github' height='40'>](https://github.com/samriddha-basu-cloud)  [<img src='https://img.icons8.com/cute-clipart/64/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/samriddha-basu-4594401ba/)  [<img src='https://img.icons8.com/cute-clipart/64/000000/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/samriddha.basu.92)  [<img src='https://img.icons8.com/cute-clipart/64/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/important.dmg/)  [<img src='https://img.icons8.com/cute-clipart/64/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/BasuSamriddha)  
+
+
+
+
+
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='30'></a> 
+
+![Samriddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=samriddha-basu-cloud&show_icons=true&theme=tokyonight)
+
+![Samriddha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samriddha-basu-cloud) \
+
+
+![Samriddha's Profile views](https://gpvc.arturio.dev/samriddha-basu-cloud)  
