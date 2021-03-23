@@ -1,4 +1,4 @@
-### Hi there, welcome to my profile <img src="https://raw.githubusercontent.com/<samriddha-basu-cloud>/<samriddha-basu-cloud>/master/<wave>.gif" width="30px">
+### Hi there, welcome to my profile # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 👨🏽‍💻  Samriddha Basu here.
 #### A novice coder, an ardent technophile, and 1st year undergrad majoring CS&E at SRM IST.
