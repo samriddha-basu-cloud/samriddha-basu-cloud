@@ -19,3 +19,4 @@
 ![Samriddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=samriddha-basu-cloud&show_icons=true&theme=tokyonight)
 
 ![Samriddha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samriddha-basu-cloud) 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samriddha-basu-cloud&" alt="samriddha-basu-cloud" /></p>
