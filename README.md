@@ -16,7 +16,10 @@
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='30'></a> 
 
-![Samriddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=samriddha-basu-cloud&show_icons=true&theme=tokyonight)
+
+![Samriddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=samriddha-basu-cloud&show_icons=true&theme=merko)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samriddha-basu-cloud&theme=merko" alt="samriddha-basu-cloud" /></p>
 
 ![Samriddha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samriddha-basu-cloud) 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samriddha-basu-cloud&theme=dark" alt="rishi838" /></p>
