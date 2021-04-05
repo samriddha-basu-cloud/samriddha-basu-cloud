@@ -20,6 +20,6 @@
 ![Samriddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=samriddha-basu-cloud&show_icons=true&theme=blue-green)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samriddha-basu-cloud&theme=black-ice" alt="samriddha-basu-cloud" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samriddha-basu-cloud&theme=blue-green" alt="samriddha-basu-cloud" /></p>
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=samriddha-basu-cloud&theme=react-dark)
