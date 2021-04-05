@@ -23,3 +23,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samriddha-basu-cloud&theme=merko" alt="samriddha-basu-cloud" /></p>
 
 ![Samriddha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samriddha-basu-cloud) 
+[![Samriddha's github activity graph](https://activity-graph.herokuapp.com/graph?username=samriddha-basu-cloud&theme=react_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
