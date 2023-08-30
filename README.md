@@ -1,4 +1,10 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Samriddha Basu!</h1>
+<div align="center">
+  
+    <img src = "/github_animation.gif" height = "100%">
+
+</div>
+
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Samriddha Basu!  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='30'></a></h1>
 
 <h3 align="center">| Final Year B.Tech Student 🎓 | Cloud Computing Enthusiast 🚀 | Cross-Platform Dev 💻 📱 |</h3>
 
