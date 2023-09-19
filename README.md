@@ -104,7 +104,7 @@
    </div>
 
   <p align="center">
-   (🌩️ Certified in AWS, Azure, and Alibaba Cloud.)
+   (🌩️ Certified in AWS, Azure, and Alibaba Cloud)
   </p>
 
 
