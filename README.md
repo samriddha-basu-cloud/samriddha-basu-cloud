@@ -29,7 +29,7 @@
     
    ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
    ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-   ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white)
+   ![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?logo=neovim&logoColor=white)
    ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white)
    ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
    ![GoLand](https://img.shields.io/badge/-GoLand-00ACD7?logo=goland&logoColor=white)
@@ -45,6 +45,10 @@
    ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali-linux&logoColor=white)
    ![Pop!_OS](https://img.shields.io/badge/-Pop%21_OS-48B9C7?logo=pop-os&logoColor=white)
    ![Garuda Linux](https://img.shields.io/badge/-Garuda%20Linux-15AC2A?logo=linux&logoColor=white)
+   ![Chrome Flex OS](https://img.shields.io/badge/-Chrome%20Flex%20OS-4285F4?logo=google-chrome&logoColor=white)
+   ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?logo=linux-mint&logoColor=white)
+   ![Amazon Linux](https://img.shields.io/badge/-Amazon%20Linux-232F3E?logo=amazon-aws&logoColor=white)
+
   </div>
 
   <h3 align="center"> Designed using ... </h3>
@@ -60,6 +64,9 @@
      
    ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?logo=wordpress&logoColor=white)
    ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
+   ![Hostinger](https://img.shields.io/badge/-Hostinger-00B0D8?logo=hostinger&logoColor=white)
+   ![GoDaddy](https://img.shields.io/badge/-GoDaddy-000000?logo=godaddy&logoColor=white)
+
         
   </div>
 
