@@ -79,6 +79,7 @@
    ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
    ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=white)
    ![CouchDB](https://img.shields.io/badge/-CouchDB-EA9A00?logo=apache-couchdb&logoColor=white)
+   ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
    
    ![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-232F3E?logo=amazon-aws&logoColor=white)
