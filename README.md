@@ -22,6 +22,8 @@
    ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
    ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
    ![GoLang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+
   </div>
 
   <h3 align="center">Code on ... </h3>
